@@ -1,0 +1,49 @@
+/* Oswald */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/* Roboto Condensed */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+#banner-FODA {
+    width: 60%;
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: blanchedalmond;
+}
+
+.sub-titulo {
+    font-weight: bold;
+    font-family: "Roboto Condensed", sans-serif;
+    color: blanchedalmond;
+}
+
+.sub-titulo-centrado {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto Condensed", sans-serif;
+    color: blanchedalmond;
+}
+
+.parrafo {
+    font-weight: 400;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: medium;
+    color: antiquewhite;
+}
+
+.internas {
+    color: green;
+}
+
+.externas {
+    color: orange;
+}
+
+#fondo-body {
+    background-color: rgb(4,15,45);
+}
